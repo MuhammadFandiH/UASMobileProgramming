@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BackEnd</string>
+    <string name="text"> Petunjuk </string>
+    <string name="petunjuk"> Penjelasan mengenai UMB dan petunjuk mengenai cara mengerjakan tes  </string>
+    <string name="test">  Mengambil test pengujian Minat dan Bakat</string>
+    <string name="kettes"> Untuk keterangan lebih lanjut, silahkan lihat pada halaman petunjuk atau tanyakan pada guru anda</string>
+    <string name="umb">UMB (Uji Minat Bakat) adalah aplikasi test untuk mengukur minat dan bakat siswa</string>
+    <string name="kriteria1">1. Kecerdasan verbal/linguistik, kemampuan untuk menggunakan bahasa atau kata-kata secara efektif</string>
+    <string name="kriteria2">2. Kecerdasan logis/matematis, kemampuan menggunakan angka-angka dan penalaran logika dengan baik</string>
+    <string name="kriteria3">3. Kecerdasan visual/spasial, Kemampuan berpikir 2 atau 3 dimensi, memiliki kepekaan akan arah atau lokasi tertentu.</string>
+    <string name="kriteria4">4. Kecerdasan kinestetik, kemampuan untuk menggunakan gerak tubuh atau bergerak dengan ketepatan (presisi) tinggi dan mengeksplorasikan ide atau perasaan melalui gerakan tertentu.</string>
+    <string name="kriteria5">5. Kecerdasan musikal, kemampuan untuk memahami, mengapresiasi, memainkan dan menciptakan musik serta memiliki kepekaan akan ritme, melodi dan nada</string>
+    <string name="kriteria6">6. Kecerdasan interpersonal, kemampuan untuk menjalin hubungan (berkomunikasi) dengan orang lain</string>
+    <string name="kriteria7">7. Kecerdasan intrapersonal, kemampuan memahami, dan merefleksikan diri sendiri, mengenali kekuatan dan keterbatasan diri sendiri</string>
+    <string name="kriteria8">8. Kecerdasan naturalis, kemampuan untuk memahami alam sekitar, mengidentifikasi dan mengklasifikasi persamaan dan perbedaan karakteristik spesies flora dan fauna, secara efektif berinteraski dengan alam</string>
+</resources>

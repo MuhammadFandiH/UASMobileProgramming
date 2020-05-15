@@ -16,11 +16,11 @@
         <span>Dashboard</span></a>
     </li>
 
-    <li class="nav-item {{ Route::currentRouteName() == 'question.index' ? 'active':'' }}">
+    <!-- <li class="nav-item {{ Route::currentRouteName() == 'question.index' ? 'active':'' }}">
     <a class="nav-link" href="{{ route('question.index') }}">
         <i class="fas fa-fw fa-question"></i>
         <span>Kelola Soal</span></a>
-    </li>
+    </li> -->
 
     <li class="nav-item {{ Route::currentRouteName() == 'student' ? 'active':'' }}">
     <a class="nav-link" href="{{ route('student') }}">

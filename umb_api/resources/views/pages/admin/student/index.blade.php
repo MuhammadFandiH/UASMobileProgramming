@@ -25,7 +25,7 @@
                             @forelse ($items as $item)
                                 <tr>
                                     <td>{{ $item->nis }}</td>
-                                    <td>{{ $item->name }}</td>
+                                    <td>{{ $item->nama }}</td>
                                     <td>{{ $item->minat1 }}</td>
                                     <td>{{ $item->minat2 }}</td>
                                 </tr>
